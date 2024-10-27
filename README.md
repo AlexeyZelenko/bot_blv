@@ -28,7 +28,7 @@ firebase-service-account.json
 }
 
 
-Додатково:
+##Додатково:
 Задля безпеки не включайте цей файл до репозиторію. Додайте його до .gitignore, щоб запобігти випадковому пушу:
 
 firebase-service-account.json
